@@ -1,0 +1,5 @@
+﻿  input_neuron.cpp
+  main.cpp
+C:\Users\willmandil\source\repos\POC\POC\main.cpp(13,41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  POC.vcxproj -> C:\Users\willmandil\source\repos\POC\x64\Debug\POC.exe
